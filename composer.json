@@ -1,5 +1,5 @@
 {
-    "name": "openai-php/client",
+    "name": "fonclub/openai-client",
     "description": "OpenAI PHP is a supercharged PHP API client that allows you to interact with the Open AI API",
     "keywords": ["php", "openai", "sdk", "codex", "GPT-3", "DALL-E", "api", "client", "natural", "language", "processing"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.1.0",
-        "guzzlehttp/guzzle": "^7.5.0"
+        "guzzlehttp/guzzle": "^7.4.0"
     },
     "require-dev": {
         "laravel/pint": "^1.6.0",
